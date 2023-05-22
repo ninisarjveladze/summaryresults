@@ -1,0 +1,84 @@
+@media screen and (min-width: 1440px) {
+
+    body{
+        background-color:#ECF2FF;        ;
+    }
+    .container{
+        width:736px;
+        height:512px;
+        border-radius: 32px;
+        box-shadow: 0px 30px 60px rgba(61, 108, 236, 0.15);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    .blue{
+        border-radius: 32px;
+        height: 100%;
+        width: 368px;
+        display: flex;
+       
+    }
+    .circle{
+        width: 200px;
+        height: 200px;
+    }
+    .summarybox{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .colorbox{
+        padding-right:70%;
+        margin-top:54px ;
+        margin-bottom: 20px;
+    }
+    .reaction{
+        width: 288px;
+        height: 56px;
+    }
+    .continue{
+        width: 288px;
+        margin-left: 45px;
+        display: flex;
+        padding-left: 10%;
+    }
+    h1{
+        font-size: 72px;
+        line-height: 72px;
+    }
+    h2{
+        font-size: 32px;
+        line-height: 42px;
+    }
+    h3{
+        font-size: 24px;
+        line-height: 31px;
+    }
+    h4{
+        font-size: 18px;
+        line-height: 23px;
+        font-weight: 500;
+    }
+    h5{
+        padding-top: 15px;
+        font-size: 24px;
+        line-height: 31px;
+    }
+    h6{
+        font-size: 18px;
+        line-height: 23px;
+    }
+    p{
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .contsize{
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+
+
+}
